@@ -8,7 +8,6 @@ O objetivo é limpar os dados, validar regras de negócio e gerar um relatório 
 - `main_pandas.py` — script principal usando **pandas**.
 - `halloween_vendas.csv` — base de dados (coloque na mesma pasta).
 - `REPORT.md` — relatório gerado automaticamente pelo script.
-- `video_script.txt` — roteiro sugerido para o vídeo de apresentação.
 
 ## Objetivo do programa
 - Organizar e explorar a base.
